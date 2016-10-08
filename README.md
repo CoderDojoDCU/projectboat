@@ -26,11 +26,17 @@ npm install
 
 ## Accessing Twitter
 
-
+```
 Consumer Key (API Key)	WSgmsn8Os5En3RW0xyY8OMyIj
-Consumer Secret (API Secret)	xy1PlHXWwTa0XzzYCNiU7qpNKxx326c6k7iEHmDGPzcsZvlpGo
 
+Consumer Secret (API Secret)	xy1PlHXWwTa0XzzYCNiU7qpNKxx326c6k7iEHmDGPzcsZvlpGo
+```
+
+```
 Access Token	782156292823580672-1lbrqTSvJn4B19NOpMogFiSV3VM15fO
+
 Access Token Secret	d5eBm2jhAianAE27S54hKu8sKbilEM5IXRNHcM8n5P6EA
+
+```
 
 
