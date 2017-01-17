@@ -11,6 +11,8 @@
   "description": "Node express app that highlights trends on an Intel Galileo Board",
   "dependencies": {
     "express": "^4.9.5",
-    "twit": "~2.2.5"
+    "twit": "~2.2.5",
+    "redis": "2.6.5",
+    
   }
 }
